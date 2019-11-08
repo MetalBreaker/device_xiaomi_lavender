@@ -1,7 +1,7 @@
 [
   {
     "repository": "vendor_xiaomi_lavender",
-    "target_path": "device/xiaomi/lavender"
+    "target_path": "vendor/xiaomi/lavender"
   },
   {
     "repository": "nunocodex/kernel_xiaomi_lavender",
