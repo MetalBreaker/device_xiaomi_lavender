@@ -1,7 +1,7 @@
 [
   {
     "repository": "vendor_xiaomi_lavender",
-    "target_path": "device/xiaomi/lavender"
+    "target_path": "vendor/xiaomi/lavender"
   },
   {
     "repository":  "android_packages_resources_devicesettings",
@@ -10,7 +10,8 @@
     "remote": "lineage"
   },
   {
-    "repository": "nunocodex/kernel_xiaomi_lavender",
-    "target_path": "kernel/xiaomi/lavender"
+    "repository": "rama982/android_kernel_xiaomi_lavender",
+    "target_path": "kernel/xiaomi/lavender",
+    "branch": "rebase-sdm-9-upstream"
   }
 ]
