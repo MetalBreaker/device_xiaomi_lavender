@@ -4,7 +4,8 @@
     "target_path": "vendor/xiaomi/lavender"
   },
   {
-    "repository": "nunocodex/kernel_xiaomi_lavender",
-    "target_path": "kernel/xiaomi/lavender"
+    "repository": "rama982/android_kernel_xiaomi_lavender",
+    "target_path": "kernel/xiaomi/lavender",
+    "branch": "rebase-sdm-9-upstream"
   }
 ]
